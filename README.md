@@ -1,4 +1,4 @@
-<h1 align="center"> Ignite Feed </h1>
+<h1 align="center"> Feed </h1>
 
 <p align= "center">
 Uma página do feed de uma rede social feita como forma de estudos do curso ReactJS da Rocketseat</p>
@@ -24,7 +24,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O "Ignite Feed" foi um mini projeto do curso de ReactJS da Rocketseat no módulo "Fundamentos". Nele, consolidei conhecimentos sobre componentes, propriedades, CSS Modules e responsividade, desenvolvendo uma interface funcional e dinâmica.
+O "Ignite Feed" foi um mini projeto do curso de ReactJS da Rocketseat no módulo "Fundamentos". Onde consolidei conhecimentos sobre componentes, propriedades, CSS Modules e responsividade, desenvolvendo uma interface funcional e dinâmica.
 
 ## 📚 Aprendizados
 
