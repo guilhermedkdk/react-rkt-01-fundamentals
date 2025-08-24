@@ -20,7 +20,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - React
 - Typescript
-- HTML e CSS
+- FIGMA
 
 ## 💻 Projeto
 
